@@ -5,7 +5,8 @@ Quake dork: response:"CobaltStrike Beacon configurations"
 Paper: https://quake.cert.qihoo.net/quake/#/reportDetail?id=5fc6fedd191038c3b25c4950
 
 
-CobaltStrike-Beacon-Data.csv:
+CobaltStrike-Beacon-Data.csv
+Beacon IP  ||||| Beacon Port ||||| Beacon Config C2
 ```
 47.242.148.4|||||80|||||47.242.148.4
 176.121.14.229|||||80|||||176.121.14.229
