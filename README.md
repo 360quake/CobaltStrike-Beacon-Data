@@ -6,6 +6,7 @@ Paper: https://quake.cert.qihoo.net/quake/#/reportDetail?id=5fc6fedd191038c3b25c
 
 
 CobaltStrike-Beacon-Data.csv
+
 Beacon IP  ||||| Beacon Port ||||| Beacon Config C2
 ```
 47.242.148.4|||||80|||||47.242.148.4
