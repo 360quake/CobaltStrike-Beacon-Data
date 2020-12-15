@@ -2,7 +2,7 @@
 
 Quake dork: response:"CobaltStrike Beacon configurations"
 
-Paper: https://quake.cert.qihoo.net/quake/#/reportDetail?id=5fc6fedd191038c3b25c4950
+Paper: https://quake.360.cn/quake/#/reportDetail?id=5fc6fedd191038c3b25c4950
 
 
 CobaltStrike-Beacon-Data.csv
